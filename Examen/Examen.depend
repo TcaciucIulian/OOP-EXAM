@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1559041955 source:c:\users\iulia\onedrive\desktop\examen\main.cpp
+	<iostream>
+	"bilet.h"
+	"clasaUnu.h"
+
+1559029472 c:\users\iulia\onedrive\desktop\examen\bilet.h
+	<string.h>
+
+1559029472 c:\users\iulia\onedrive\desktop\examen\clasaunu.h
+	"bilet.h"
+
