@@ -1,7 +1,4 @@
-# Examen curs programare orientata pe obiecte, facultatea de matematica si informmatica.
+# Exam at OOP course at the University of Bucharest
 
 
-Durata examen : 1h si 45minute
-
-
-Cerinta : Cerinta avea ca scop generarea unor bilete de tren in functie de input-urile date.
+work time  : 1h si 45minutes
